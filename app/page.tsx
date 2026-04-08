@@ -35,7 +35,7 @@ export default function Home() {
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-black/10 to-background" />
         <div className="absolute top-6 left-6 md:top-8 md:left-8 text-white">
-          <h1 className="text-4xl md:text-5xl font-bold text-balance">Calendar 2022</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-balance">Calendar 2026</h1>
           <p className="text-white/80 mt-2 text-lg">Plan your adventures</p>
         </div>
       </div>
